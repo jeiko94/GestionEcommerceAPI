@@ -5,7 +5,7 @@
     {
 
         public int PedidoId { get; set; }
-        public Pedido pedido { get; set; }
+        public Pedido Pedido { get; set; }
 
         public int ProductoId { get; set; }
         public Producto Producto { get; set; }
